@@ -1,4 +1,4 @@
-wait(0.1)
+wait(1)
 
 local Camera = workspace.CurrentCamera
 local uis = game:GetService("UserInputService")
