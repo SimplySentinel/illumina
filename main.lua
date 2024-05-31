@@ -1,4 +1,4 @@
-wait(1)
+wait(0.1)
 
 local Camera = workspace.CurrentCamera
 local uis = game:GetService("UserInputService")
@@ -54,7 +54,7 @@ quotasloader.BorderSizePixel = 0
 quotasloader.Position = UDim2.new(0.123442277, 0, 0.157894731, 0)
 quotasloader.Size = UDim2.new(0, 154, 0, 39)
 quotasloader.Font = Enum.Font.JosefinSans
-quotasloader.Text = "\illumina\"
+quotasloader.Text = "\"quotas hub\""
 quotasloader.TextColor3 = Color3.fromRGB(255, 255, 255)
 quotasloader.TextSize = 20.000
 quotasloader.TextWrapped = true
@@ -250,7 +250,7 @@ quotasname.BorderSizePixel = 0
 quotasname.Position = UDim2.new(0, 0, -0.000333150238, 0)
 quotasname.Size = UDim2.new(0, 329, 0, 25)
 quotasname.Font = Enum.Font.JosefinSans
-quotasname.Text = "\illumina\"
+quotasname.Text = "\"quotas hub\""
 quotasname.TextColor3 = Color3.fromRGB(255, 255, 255)
 quotasname.TextSize = 14.000
 quotasname.TextWrapped = true
